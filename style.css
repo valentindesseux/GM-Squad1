@@ -65,3 +65,21 @@ li a:hover, #dropdown:hover .dropbtn {
     background-color:  #696969;
   
 }
+.barre #barre{
+  height: 1200px;
+  width: 200px;
+  color: white;
+  float: left;
+  background-color: firebrick;
+}
+.barre li h3 {
+  text-align: center;
+  color: #D3D3D3;
+}
+.barre li h4 {
+  padding-left:6px;
+}
+.barre .space {
+  margin-top: -12px;
+  border-bottom: 2px solid darkred;
+}
